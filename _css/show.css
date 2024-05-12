@@ -1,0 +1,55 @@
+
+.container{
+
+
+    margin-top: 200px;
+}
+
+.container1{
+
+    background-color: #14a4bc;
+    padding:15px;
+
+    border-radius: 10px;
+}
+
+.container3{
+
+    width: 10%;
+    height:20px;
+
+
+}
+label{
+
+    color:white;
+    font-weight: 10px;
+    font-size: 20px;
+}
+
+table td,
+table th {
+text-overflow: ellipsis;
+white-space: nowrap;
+
+
+
+
+}
+.table-responsive {
+    max-height: 200px;
+    overflow: scroll;
+  }
+
+thead th {
+padding:50px;
+
+
+}
+
+thead {
+top: 0;
+position: sticky;
+}
+
+
